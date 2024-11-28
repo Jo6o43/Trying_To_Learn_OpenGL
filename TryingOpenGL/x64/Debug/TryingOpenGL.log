@@ -1,2 +1,11 @@
 ﻿  Main.cpp
+C:\Users\Jo6o\Desktop\Learning\Trying_To_Learn_OpenGL\TryingOpenGL\Main.cpp(71,33): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Jo6o\Desktop\Learning\Trying_To_Learn_OpenGL\TryingOpenGL\Main.cpp(71,33): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+glfw3.lib(input.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(input.obj)' or at ''; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_joystick.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_window.obj)' or at ''; linking object as if no debug info
   TryingOpenGL.vcxproj -> C:\Users\Jo6o\Desktop\Learning\Trying_To_Learn_OpenGL\x64\Debug\TryingOpenGL.exe
