@@ -71,12 +71,12 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <IncludePath>C:\Users\Jo6o\Desktop\Learning\Trying_To_Learn_OpenGL\TryingOpenGL\Libraries\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\Jo6o\Desktop\Learning\Trying_To_Learn_OpenGL\TryingOpenGL\Libraries\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\joaor\Desktop\Learning\Trying_To_Learn_OpenGL\TryingOpenGL\Libraries\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\joaor\Desktop\Learning\Trying_To_Learn_OpenGL\TryingOpenGL\Libraries\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>C:\Users\Jo6o\Desktop\Learning\Trying_To_Learn_OpenGL\TryingOpenGL\Libraries\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\Jo6o\Desktop\Learning\Trying_To_Learn_OpenGL\TryingOpenGL\Libraries\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\joaor\Desktop\Learning\Trying_To_Learn_OpenGL\TryingOpenGL\Libraries\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\joaor\Desktop\Learning\Trying_To_Learn_OpenGL\TryingOpenGL\Libraries\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
@@ -139,6 +139,14 @@
   <ItemGroup>
     <ClCompile Include="glad.c" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="shaderClass.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="default.frag" />
+    <None Include="default.vert" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="shaderClass.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
