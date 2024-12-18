@@ -1,4 +1,4 @@
 ﻿  Main.cpp
-C:\Users\joaor\Desktop\Learning\Trying_To_Learn_OpenGL\TryingOpenGL\Main.cpp(71,33): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
-C:\Users\joaor\Desktop\Learning\Trying_To_Learn_OpenGL\TryingOpenGL\Main.cpp(71,33): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  shaderClass.cpp
+  Generating Code...
   TryingOpenGL.vcxproj -> C:\Users\joaor\Desktop\Learning\Trying_To_Learn_OpenGL\x64\Debug\TryingOpenGL.exe

@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\joaor\\Desktop\\Learning\\Trying_To_Learn_OpenGL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EA8FC74-D865-48B8-A4FB-75DBE3A479C2}|TryingOpenGL\\TryingOpenGL.vcxproj|C:\\Users\\joaor\\Desktop\\Learning\\Trying_To_Learn_OpenGL\\TryingOpenGL\\shaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7EA8FC74-D865-48B8-A4FB-75DBE3A479C2}|TryingOpenGL\\TryingOpenGL.vcxproj|solutionrelative:TryingOpenGL\\shaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7EA8FC74-D865-48B8-A4FB-75DBE3A479C2}|TryingOpenGL\\TryingOpenGL.vcxproj|C:\\Users\\joaor\\Desktop\\Learning\\Trying_To_Learn_OpenGL\\TryingOpenGL\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7EA8FC74-D865-48B8-A4FB-75DBE3A479C2}|TryingOpenGL\\TryingOpenGL.vcxproj|solutionrelative:TryingOpenGL\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7EA8FC74-D865-48B8-A4FB-75DBE3A479C2}|TryingOpenGL\\TryingOpenGL.vcxproj|C:\\Users\\joaor\\Desktop\\Learning\\Trying_To_Learn_OpenGL\\TryingOpenGL\\shaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7EA8FC74-D865-48B8-A4FB-75DBE3A479C2}|TryingOpenGL\\TryingOpenGL.vcxproj|solutionrelative:TryingOpenGL\\shaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7EA8FC74-D865-48B8-A4FB-75DBE3A479C2}|TryingOpenGL\\TryingOpenGL.vcxproj|C:\\Users\\joaor\\Desktop\\Learning\\Trying_To_Learn_OpenGL\\TryingOpenGL\\shaderClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7EA8FC74-D865-48B8-A4FB-75DBE3A479C2}|TryingOpenGL\\TryingOpenGL.vcxproj|solutionrelative:TryingOpenGL\\shaderClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EA8FC74-D865-48B8-A4FB-75DBE3A479C2}|TryingOpenGL\\TryingOpenGL.vcxproj|C:\\Users\\joaor\\Desktop\\Learning\\Trying_To_Learn_OpenGL\\TryingOpenGL\\default.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{7EA8FC74-D865-48B8-A4FB-75DBE3A479C2}|TryingOpenGL\\TryingOpenGL.vcxproj|solutionrelative:TryingOpenGL\\default.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EA8FC74-D865-48B8-A4FB-75DBE3A479C2}|TryingOpenGL\\TryingOpenGL.vcxproj|C:\\Users\\joaor\\Desktop\\Learning\\Trying_To_Learn_OpenGL\\TryingOpenGL\\default.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{7EA8FC74-D865-48B8-A4FB-75DBE3A479C2}|TryingOpenGL\\TryingOpenGL.vcxproj|solutionrelative:TryingOpenGL\\default.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "shaderClass.cpp",
-              "DocumentMoniker": "C:\\Users\\joaor\\Desktop\\Learning\\Trying_To_Learn_OpenGL\\TryingOpenGL\\shaderClass.cpp",
-              "RelativeDocumentMoniker": "TryingOpenGL\\shaderClass.cpp",
-              "ToolTip": "C:\\Users\\joaor\\Desktop\\Learning\\Trying_To_Learn_OpenGL\\TryingOpenGL\\shaderClass.cpp",
-              "RelativeToolTip": "TryingOpenGL\\shaderClass.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-16T21:51:26.468Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -53,45 +32,36 @@
               "RelativeDocumentMoniker": "TryingOpenGL\\shaderClass.h",
               "ToolTip": "C:\\Users\\joaor\\Desktop\\Learning\\Trying_To_Learn_OpenGL\\TryingOpenGL\\shaderClass.h",
               "RelativeToolTip": "TryingOpenGL\\shaderClass.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-16T21:45:24.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "default.frag",
-              "DocumentMoniker": "C:\\Users\\joaor\\Desktop\\Learning\\Trying_To_Learn_OpenGL\\TryingOpenGL\\default.frag",
-              "RelativeDocumentMoniker": "TryingOpenGL\\default.frag",
-              "ToolTip": "C:\\Users\\joaor\\Desktop\\Learning\\Trying_To_Learn_OpenGL\\TryingOpenGL\\default.frag",
-              "RelativeToolTip": "TryingOpenGL\\default.frag",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-16T21:43:47.35Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "default.vert",
-              "DocumentMoniker": "C:\\Users\\joaor\\Desktop\\Learning\\Trying_To_Learn_OpenGL\\TryingOpenGL\\default.vert",
-              "RelativeDocumentMoniker": "TryingOpenGL\\default.vert",
-              "ToolTip": "C:\\Users\\joaor\\Desktop\\Learning\\Trying_To_Learn_OpenGL\\TryingOpenGL\\default.vert",
-              "RelativeToolTip": "TryingOpenGL\\default.vert",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-16T21:42:00.375Z"
+              "WhenOpened": "2024-12-18T11:36:43.935Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "shaderClass.cpp",
+              "DocumentMoniker": "C:\\Users\\joaor\\Desktop\\Learning\\Trying_To_Learn_OpenGL\\TryingOpenGL\\shaderClass.cpp",
+              "RelativeDocumentMoniker": "TryingOpenGL\\shaderClass.cpp",
+              "ToolTip": "C:\\Users\\joaor\\Desktop\\Learning\\Trying_To_Learn_OpenGL\\TryingOpenGL\\shaderClass.cpp",
+              "RelativeToolTip": "TryingOpenGL\\shaderClass.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-18T11:28:58.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\joaor\\Desktop\\Learning\\Trying_To_Learn_OpenGL\\TryingOpenGL\\Main.cpp",
               "RelativeDocumentMoniker": "TryingOpenGL\\Main.cpp",
               "ToolTip": "C:\\Users\\joaor\\Desktop\\Learning\\Trying_To_Learn_OpenGL\\TryingOpenGL\\Main.cpp",
               "RelativeToolTip": "TryingOpenGL\\Main.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-27T20:44:05.185Z"
+              "WhenOpened": "2024-12-18T11:28:34.29Z",
+              "EditorCaption": ""
             }
           ]
         }
